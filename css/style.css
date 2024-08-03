@@ -65,10 +65,11 @@ h1, h2, h3, p, ul{
     letter-spacing: 0.4px;
 }
 
+
 .section-hero {
     padding-top: 188px;
     padding-bottom: 260px;
-    background-image: url(/img/backinterno.png);
+    background-image: url(/img/backed.png);
     background-repeat: no-repeat;
     background-size: 1540px 831px;
     background-position: center;
